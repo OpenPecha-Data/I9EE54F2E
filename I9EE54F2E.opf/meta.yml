@@ -1,0 +1,16 @@
+id: I9EE54F2E
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:24:13.881271
+last_modified: 2023-02-08 15:24:13.881362
+source_metadata:
+  title: Sarvadharmāpravṛttinirdeśa
+  language: en
+bases:
+  '4389':
+    base_file: 4389.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

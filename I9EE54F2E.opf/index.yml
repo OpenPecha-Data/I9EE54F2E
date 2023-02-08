@@ -1,0 +1,67 @@
+id: 4f7e573be44b45479672e9db831dba5f
+annotation_type: index
+revision: '00001'
+annotations:
+  186572a7a8b54caabd52ceaad1ce26ca:
+    base: 4389.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 75
+    - title: §1
+      span:
+        start: 76
+        end: 785
+    - title: §2
+      span:
+        start: 786
+        end: 5346
+    - title: §3
+      span:
+        start: 5347
+        end: 9190
+    - title: §4
+      span:
+        start: 9191
+        end: 18747
+    - title: §5
+      span:
+        start: 18748
+        end: 21640
+    - title: §6
+      span:
+        start: 21641
+        end: 28703
+    - title: §7
+      span:
+        start: 28704
+        end: 30625
+    - title: §8
+      span:
+        start: 30626
+        end: 30636
+    - title: §9
+      span:
+        start: 30637
+        end: 31575
+    - title: §10
+      span:
+        start: 31576
+        end: 35851
+    - title: §11
+      span:
+        start: 35852
+        end: 36791
+    - title: §12
+      span:
+        start: 36792
+        end: 37399
+    - title: §13
+      span:
+        start: 37400
+        end: 37410
+    - title: Colophon
+      span:
+        start: 37411
+        end: 37421
